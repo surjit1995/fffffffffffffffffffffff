@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Final Test</string>
+    <string name="nav_header_subtitle">By Surjit</string>
+    <string name="nav_header_desc">MADT C0765385</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_maps">Maps</string>
+    <string name="menu_list">List</string>
+
+    <string-array name="country_arrays">
+        <item>Canada</item>
+        <item>China</item>
+        <item>India</item>
+        <item>Russia</item>
+        <item>United States</item>
+    </string-array>
+
+    <string-array name="gender_arrays">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
